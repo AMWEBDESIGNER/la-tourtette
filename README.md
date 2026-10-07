@@ -6,7 +6,7 @@ Maquette non officielle, créée comme base de présentation. Les contenus, coor
 - Catégorie : Chambres d’hôtes
 - Localisation : Saint-Étienne-en-Dévoluy · 1 270 m
 - Source publique : https://www.ledevoluy.com/hiver/offres/chambres-dhotes-la-tourtette-devoluy-fr-hiver-3736233/
-- Déploiement : à renseigner après publication
+- Déploiement : https://la-tourtette.pages.dev
 
 ## Personnalisation
 Remplacer le visuel de démonstration, compléter les coordonnées et vérifier chaque information. Aucun avis, tarif ou disponibilité n’est inventé dans cette maquette.
