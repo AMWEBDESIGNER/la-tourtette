@@ -1,6 +1,6 @@
-# La Tourtette — maquette Cloudflare Pages
+# La Tourtette — site vitrine Cloudflare Pages
 
-Maquette non officielle, créée comme base de présentation. Les contenus, coordonnées, photos et disponibilités doivent être validés par l’établissement avant toute utilisation commerciale.
+Concept de site vitrine complet : identité SVG originale, typographies locales, scène topographique Canvas, parallaxe, transitions et galerie photographique.
 
 ## Repères
 - Catégorie : Chambres d’hôtes
@@ -8,5 +8,5 @@ Maquette non officielle, créée comme base de présentation. Les contenus, coor
 - Source publique : https://www.ledevoluy.com/hiver/offres/chambres-dhotes-la-tourtette-devoluy-fr-hiver-3736233/
 - Déploiement : https://la-tourtette.pages.dev
 
-## Personnalisation
-Remplacer le visuel de démonstration, compléter les coordonnées et vérifier chaque information. Aucun avis, tarif ou disponibilité n’est inventé dans cette maquette.
+## Sources et validation
+Les informations et photographies proviennent de la fiche publique de l’Office de tourisme. Coordonnées, tarifs, droits d’image et disponibilités doivent être confirmés avant utilisation commerciale.
